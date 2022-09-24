@@ -1,0 +1,9 @@
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/CMakeFiles/rebuild_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/CMakeFiles/cpp-client.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/CMakeFiles/edit_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/CMakeFiles/dependencies.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/games/CMakeFiles/rebuild_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/games/CMakeFiles/edit_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/games/chess/CMakeFiles/rebuild_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/games/chess/CMakeFiles/edit_cache.dir
+/usr/local/home/spk6f2/SDRIVE/Chess/2022-SP-101-game-4-spk6f2/Joueur.cpp/build/games/chess/CMakeFiles/Chess_additional.dir
